@@ -1,5 +1,5 @@
 package Collections;
 
-public class HashMap {
+public class test {
 
 }
